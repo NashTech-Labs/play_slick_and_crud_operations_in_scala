@@ -1,0 +1,1 @@
+# play_slick_and_crud_operations_in_scala
